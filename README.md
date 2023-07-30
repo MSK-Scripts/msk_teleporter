@@ -8,5 +8,5 @@ Simple Teleporter Script
 * Set a Marker and a 3dText
 * You can also sit inside a vehicle to get teleported
 
-## Reqirements
+## Requirements
 * [ESX Legacy](https://github.com/esx-framework/esx_core)
